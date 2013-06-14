@@ -1,0 +1,14 @@
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\ApplicationIcon.png
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\Background.png
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\AppManifest.xaml
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Release\App.g.i.cs
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Release\Main.g.i.cs
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Release\XapCacheFile.xml
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\EasyTools.dll
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\EasyTools.pdb
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Release\EasyTools.g.resources
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Release\EasyTools.dll
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Release\EasyTools.pdb
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Release\EasyTools.xap

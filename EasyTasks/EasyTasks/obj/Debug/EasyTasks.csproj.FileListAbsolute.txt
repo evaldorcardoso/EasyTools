@@ -1,0 +1,14 @@
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\ApplicationIcon.png
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\Background.png
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\AppManifest.xaml
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Debug\App.g.i.cs
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Debug\Main.g.i.cs
+c:\users\evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Debug\XapCacheFile.xml
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\EasyTools.dll
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\EasyTools.pdb
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Debug\EasyTools.g.resources
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Debug\EasyTools.dll
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\obj\Debug\EasyTools.pdb
+C:\Users\Evaldo\documents\visual studio 2010\Projects\EasyTasks\EasyTasks\Bin\Debug\EasyTools.xap
